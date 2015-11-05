@@ -1,6 +1,6 @@
 clear all; clc;
 
-pd = 'test/exam1/';
+pd = 'test/exam2/';
 src_path = [pd 'src.png'];
 ref_path = [pd 'ref.png'];
 ini_path = [pd 'tgt.png'];
